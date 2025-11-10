@@ -24,7 +24,13 @@ Pour créer une liste non ordonnée, il suffit de mettre une étoile (`*`) devan
 
 ## 1. Introduction
 
-Insérez votre texte ici.
+Dans le cadre de ce travail, nous analyserons un jeu de données de la Ville d’Ottawa portant sur l’enjeu suivant : l’état matrimonial de la population âgée de 15 ans et plus, selon les différents quartiers de la ville. L’objectif est d’observer comment les situations matrimoniales (célibataire, marié(e), séparé(e), divorcé(e), veuf/veuve) varient d’un quartier à l’autre et d’identifier des tendances démographiques ou des disparités territoriales.
+Le jeu de données utilisé s’intitule Questionnaire détaillé du recensement de 2021 – Données par quartier. Il s’agit d’un ensemble de données dérivé du Recensement de Statistique Canada, obtenu à partir du questionnaire détaillé complété par un échantillon approximatif de 25 % des ménages.
+Ce jeu de données :
+* a été collecté dans le cadre du Recensement de la population 2021 réalisé par Statistique Canada ;
+* *ventile les résultats par quartier municipal, permettant de comparer les réalités démographiques entre zones géographiques ;
+* inclut des indicateurs sociodémographiques détaillés, dont l’état matrimonial, le niveau de scolarité, le revenu, les caractéristiques du logement et d’autres variables liées à la composition des ménages ;
+* est fourni en format CSV via le portail de données ouvertes, ce qui permet d’effectuer des analyses statistiques et visuelles.
 
 ## 2. Obtenir les données
 
