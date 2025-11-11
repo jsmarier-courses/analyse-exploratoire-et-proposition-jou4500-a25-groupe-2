@@ -112,9 +112,12 @@ Comme l'affirme Cairo (2016), une visualisation de données doit être véridiqu
 
 Insérez votre texte ici.
 Méthode 1: Nettoyage dans Google Sheets
+
 1) Suppression des doublons
+
 Nous avons utilisé l'outil Données et Supprimer les doublons, qui nous a permis d’éliminer tous les doubles lignes identiques créées lors d’une fusion de fichiers. 
-![alt text](undefined.png)
+![alt text](undefined-1.jfif)
+
 2) Recherche et remplacer
 Nous avons corrigé automatiquement certaines erreurs répétitives, comme (1,70) les donnés écrites avec une virgule au lieu d’un point.
 Capture avec les virgule:
