@@ -32,6 +32,12 @@ Ce jeu de données :
 * inclut des indicateurs sociodémographiques détaillés, dont l’état matrimonial, le niveau de scolarité, le revenu, les caractéristiques du logement et d’autres variables liées à la composition des ménages ;
 * est fourni en format CSV via le portail de données ouvertes, ce qui permet d’effectuer des analyses statistiques et visuelles.
 
+Liens
+Jeu de données original (Ville d’Ottawa) : https://ouverte.ottawa.ca/datasets/ottawa::questionnaire-détaillé-du-recensement-de-2021-données-par-quartier/about  
+CSV sur GitHub: https://raw.githubusercontent.com/jsmarier/files-for-course-assignments/refs/heads/main/Questionnaire_détaillé_du_recensement_de_2021_Données_par_quartier.csv 
+
+Ce travail sera structuré en plusieurs étapes. Dans un premier temps, nous expliquerons le processus d’obtention des données, incluant l’accès au jeu de données de la Ville d’Ottawa et sa source (le recensement de 2021 de Statistique Canada). Ensuite, nous procéderons au nettoyage et à la préparation des données, ce qui comprend la sélection des variables liées à l’état matrimonial, l’organisation des valeurs et la vérification de la qualité des données. Une troisième section sera consacrée à l’analyse descriptive, où nous analyserons la distribution des différents états matrimoniaux pour la population âgée de 15 ans et plus selon les quartiers. Finalement, nous présenterons les résultats et leur interprétation, en soulignant les variations observées entre les quartiers et les pistes de réflexion que ces différences permettent d’envisager.
+
 ## 2. Obtenir les données
 
 Utilisez deux croisillons (`##`) pour créer un intertitre de niveau 2 comme celui-ci.
