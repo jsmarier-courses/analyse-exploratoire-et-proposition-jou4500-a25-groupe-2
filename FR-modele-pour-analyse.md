@@ -120,9 +120,11 @@ Nous avons utilisé l'outil Données et Supprimer les doublons, qui nous a permi
 
 2) Recherche et remplacer
 Nous avons corrigé automatiquement certaines erreurs répétitives, comme (1,70) les donnés écrites avec une virgule au lieu d’un point.
-Capture avec les virgule:
 
+Capture avec les virgule:
+![alt text](undefined-1.png)
 Capture après le changement:
+![alt text](<undefined (1)-1.png>)
 
 3) Nettoyage cluster à l’aide de Open Refine
 Dans le cadre de notre processus de nettoyage des données, nous avons tenté la méthode de clustering dans OpenRefine, comme suggéré dans les demandes du travail dans le but de trouver et corriger les incohérences ou les variations d’écriture dans des ensembles de données volumineuses. Nous avons import le fichier csv dans OpenRefine, mais avant cela il est important de préciser que nous avons seulement prit les lignes qui sont importantes pour nous, donc les données dans notre jeux de données étaient les lignes 48 à 60,  après cela, il ne nous a donné aucune suggestion pour fusionner ou corriger les écrits que ce soit pour les quartiers ou les noms de villes. Cela nous à laissé comprendre que le jeu de données était déjà pratiquement déjà bien rédigée sans mots où variables répétitives. Malgré que nous n’avons pas effectué des changements nous avons pris des captures d’écrans qui démontrent le non demandement de changement des données affichant même parfois des chiffres auquel aucune modification n’était valable. Cela, nous à laisser avec l’idée que le jeu de données était plus où moins cohérent et ceci réduit les risques d’erreurs vis-à-vis de variations d’écriture ou des doublons cachés.
