@@ -129,12 +129,12 @@ Capture après le changement:
 3) Nettoyage cluster à l’aide de Open Refine
 Dans le cadre de notre processus de nettoyage des données, nous avons tenté la méthode de clustering dans OpenRefine, comme suggéré dans les demandes du travail dans le but de trouver et corriger les incohérences ou les variations d’écriture dans des ensembles de données volumineuses. Nous avons import le fichier csv dans OpenRefine, mais avant cela il est important de préciser que nous avons seulement prit les lignes qui sont importantes pour nous, donc les données dans notre jeux de données étaient les lignes 48 à 60,  après cela, il ne nous a donné aucune suggestion pour fusionner ou corriger les écrits que ce soit pour les quartiers ou les noms de villes. Cela nous à laissé comprendre que le jeu de données était déjà pratiquement déjà bien rédigée sans mots où variables répétitives. Malgré que nous n’avons pas effectué des changements nous avons pris des captures d’écrans qui démontrent le non demandement de changement des données affichant même parfois des chiffres auquel aucune modification n’était valable. Cela, nous à laisser avec l’idée que le jeu de données était plus où moins cohérent et ceci réduit les risques d’erreurs vis-à-vis de variations d’écriture ou des doublons cachés.
 Capture d’écrans du nettoyage dans OpenRefine:
-
+![alt text](image.png) ![alt text](<image (1).png>) ![alt text](<image (2).png>)
 ### 3.3. Analyse exploratoire des données (AED)
 
 Insérez votre texte ici.
 Capture d’écran du tableau croisé:
-
+![alt text](<image (3).png>) ![alt text](<image (4).png>)
 
 Résumé de l’analyse:
 
