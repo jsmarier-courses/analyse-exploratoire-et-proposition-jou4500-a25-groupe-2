@@ -95,7 +95,9 @@ C'est aussi comme ça qu'on crée une liste ordonnée. Il suffit de mettre `1.` 
 ## 3. Comprendre les données
 
 ### 3.1. Analyse VIMA
+3. Comprendre les données (environ 700 à 1000 mots)
 
+En premier lieu, dans le cadre de notre analyse VIMA, nous avons observé plusieurs colonnes dont trois clés que nous avons choisies dans notre jeu de données : la population âgée de 15 ans et plus, le taux de non-réponse global, ainsi que la catégorie “marié ou vivant en union libre". Dans l’ensemble, nous avons remarqué que les données sont appropriées et reflètent des ordres de grandeur concret pour les différents quartiers dans la ville d’Ottawa. Le nombre total de la population, qui se situe entre 20 000 et 40 000 personnes selon les secteurs, correspond avec les proportions observées dans les catégories en lien avec l’état matrimonial. Ensuite, nous avons relevé aucune valeur invalide, malgré de minuscules écarts liés aux arrondis statistiques sont présents entre certaines sous-catégories et leurs totaux. Ces alternances restent de tout manière petites et n’affectent pas la fiabilité générale des données. Bien que nul des valeurs manquantes ne soit explicitement indiquée, on à observer que les écarts dans les taux de non-réponse, comme celle de Rideau-Vanier (7,6%) et à Somerset (5,9%), suggèrent une prudence particulière lors de l’interprétation. En fin de compte, aucune valeur anormale n’a été observée, et l'ensemble des données reste approprié aux tendances démographiques considérées. En terme globale, notre groupe juge le jeu de données solide, tout en reconnaissant certaines limites liées à la qualité de réponse dans certains quartiers.
 Utilisez trois croisillons (`###`) pour créer un intertitre de niveau 3 comme celui-ci. Je vous prie de suivre ce modèle en ce qui a trait aux intertitres de niveaux 1 et 2. Toutefois, je vous laisse le loisir d'utiliser les intertitres de niveau 3 comme bon vous semble.
 
 Insérez votre texte ici.
