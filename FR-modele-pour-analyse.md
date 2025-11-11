@@ -111,6 +111,19 @@ Comme l'affirme Cairo (2016), une visualisation de données doit être véridiqu
 ### 3.2. Nettoyage des données
 
 Insérez votre texte ici.
+Méthode 1: Nettoyage dans Google Sheets
+1) Suppression des doublons
+Nous avons utilisé l'outil Données et Supprimer les doublons, qui nous a permis d’éliminer tous les doubles lignes identiques créées lors d’une fusion de fichiers. 
+
+2) Recherche et remplacer
+Nous avons corrigé automatiquement certaines erreurs répétitives, comme (1,70) les donnés écrites avec une virgule au lieu d’un point.
+Capture avec les virgule:
+
+Capture après le changement:
+
+3) Nettoyage cluster à l’aide de Open Refine
+Dans le cadre de notre processus de nettoyage des données, nous avons tenté la méthode de clustering dans OpenRefine, comme suggéré dans les demandes du travail dans le but de trouver et corriger les incohérences ou les variations d’écriture dans des ensembles de données volumineuses. Nous avons import le fichier csv dans OpenRefine, mais avant cela il est important de préciser que nous avons seulement prit les lignes qui sont importantes pour nous, donc les données dans notre jeux de données étaient les lignes 48 à 60,  après cela, il ne nous a donné aucune suggestion pour fusionner ou corriger les écrits que ce soit pour les quartiers ou les noms de villes. Cela nous à laissé comprendre que le jeu de données était déjà pratiquement déjà bien rédigée sans mots où variables répétitives. Malgré que nous n’avons pas effectué des changements nous avons pris des captures d’écrans qui démontrent le non demandement de changement des données affichant même parfois des chiffres auquel aucune modification n’était valable. Cela, nous à laisser avec l’idée que le jeu de données était plus où moins cohérent et ceci réduit les risques d’erreurs vis-à-vis de variations d’écriture ou des doublons cachés.
+Capture d’écrans du nettoyage dans OpenRefine:
 
 ### 3.3. Analyse exploratoire des données (AED)
 
