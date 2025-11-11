@@ -128,6 +128,19 @@ Capture d’écrans du nettoyage dans OpenRefine:
 ### 3.3. Analyse exploratoire des données (AED)
 
 Insérez votre texte ici.
+Capture d’écran du tableau croisé:
+
+
+Résumé de l’analyse:
+
+Dans cette analyse exploratoire des données, nous avons décidé de nous concentrer sur les variables liées à l’état matrimonial dans les quartiers Somerset (14) et Barrhaven-Ouest (3). La raison pour laquelle nous avons choisi ces deux quartiers et ces valeurs, c'est à cause de leur richesse descriptive qui offre un cadre très ouvert à l’analyse sociale très facile à comparer ces deux secteurs qui ont des réalités démographiques hétérogènes. Le tableau croisé permet dans un premier temps d’observer activement la répartition des populations selon différents statuts conjugaux, pendant que le graphique exploratoire clarifie clairement de manière visuelle et lisible les écarts les plus significatifs. Nos premières observations montrent que Barrhaven-Ouest (3) affiche un chiffre principalement élevé de personnes mariées (25 025), surpassant énormément le quartier de Somerset (14) qui en contient (14 895). De plus, nous avons remarqué que les gens habitant en union libre se démarquent aussi à leur manière, Somerset (14) affichant pratiquement le double de personnes vivant en union libre par rapport à Barrhaven-Ouest (3) qui en comptent (3 165) et eux (6 610). Le phénomène que nous avons pu y tirées est celui de deux quartier dynamiques familiales opposées, l’un est plus tendu vers des couples mariées et 
+sans doute plus stables, alors que l’autre est marqué par une diversité de statuts conjugaux et une présence accentuée de personnes vivant sous le statut de célibataires. Sur la base de ces premières tendances, elle suggère qu’une analyse plus poussée pourrait porter sur l’âge, la composition de foyer stable ou le salaire médian, pour mieux comprendre les facteurs socio-économiques qui influencent ces différences.
+
+Liens:
+Jeu de données original (Ville d’Ottawa) : https://ouverte.ottawa.ca/datasets/ottawa::questionnaire-détaillé-du-recensement-de-2021-données-par-quartier/about  
+CSV sur GitHub: https://raw.githubusercontent.com/jsmarier/files-for-course-assignments/refs/heads/main/Questionnaire_détaillé_du_recensement_de_2021_Données_par_quartier.csv 
+Données CSV convertie dans sheets (avec les graphiques) https://docs.google.com/spreadsheets/d/1CzX5m_PyYF-KkMllT-fNI31nGXLnwkidRBbIPtKZJNU/edit?usp=sharing
+https://www.datawrapper.de/_/WNLuX/
 
 **Cette section doit inclure une capture d'écran de votre tableau croisé dynamique, comme ceci :**
 
