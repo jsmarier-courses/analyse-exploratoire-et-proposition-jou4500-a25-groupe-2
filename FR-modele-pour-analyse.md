@@ -183,7 +183,11 @@ Ce récit servirait à questionner l’adéquation des infrastructures (écoles,
 
 ## 5. Conclusion
 
-Insérez votre texte ici.
+
+Dans ce projet, la partie qui nous a semblé la plus difficile a été la mise en page dans Visual Studio Code. L’utilisation de l’application, l’intégration des captures d’écran demandaient beaucoup d’essais et d’ajustements pour obtenir un rendu cohérent.
+En revanche, l’aspect le plus gratifiant a été de voir les données prendre forme dans les tableaux croisés et les graphiques. Le passage d’un fichier brut de chiffres à une visualisation claire qui raconte une histoire a été motivant et concret.
+Ce travail nous a permis d’identifier certaines lacunes, notamment dans l’utilisation d’outils comme OpenRefine et Visual Studio Code. Avec du recul, nous aurions pu mieux planifier nos étapes et tester plus tôt les Visual Studio Code afin d’éviter des ajustements de dernière minute. Malgré cela, ce projet nous a aidé à mieux comprendre comment transformer des données en un récit informatif et appuyé sur des faits.
+
 
 ## 6. Références
 
