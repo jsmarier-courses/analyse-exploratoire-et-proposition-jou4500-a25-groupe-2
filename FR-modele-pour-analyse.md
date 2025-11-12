@@ -159,7 +159,27 @@ https://www.datawrapper.de/_/WNLuX/
 
 ## 4. Récit potentiel
 
-Insérez votre texte ici.
+Titre : Ottawa à deux vitesses : banlieues conjugales et cœurs urbains célibataires
+Les chiffres montrent une ville où la géographie conjugale est nette : les quartiers périphériques concentrent les familles et les personnes mariées, tandis que le centre attire des adultes célibataires et des formes de vie plus individuelles. Ce récit peut analyser comment le logement (prix, type), l’âge et la structure d’emploi façonnent ces profils.
+Pour « raconter » cette histoire il faudrait :
+
+Des données complémentaires :
+* Le revenu médian par ménage (63)
+* Les types de logement (216)
+
+2-	Les voix locales, entrevues avec :
+* Un conseiller municipal d’un quartier périphérique (ex. Barrhaven),
+* Un gestionnaire d’immeuble (ex : à Somerset)
+* Une représentante d’un organisme jeunesse
+
+3-	Les illustrations :
+* Un graphique
+* Les témoignages
+* Les photos.
+
+Pour compléter notre analyse des données, nous utiliserons des sources supplémentaires afin de contextualiser nos résultats. Parmi celles-ci figurent les données de Statistique Canada (2022) sur la répartition du statut matrimonial, la carte canadienne du mariage publiée par Cardus (2025), ainsi que l’Ottawa Neighbourhood Study qui fournit des profils socio‑démographiques détaillés par quartier.
+Ce récit servirait à questionner l’adéquation des infrastructures (écoles, crèches, services pour personnes âgées) aux besoins différenciés des quartiers.
+
 
 ## 5. Conclusion
 
