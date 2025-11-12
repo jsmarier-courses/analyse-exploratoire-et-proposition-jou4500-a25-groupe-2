@@ -61,9 +61,31 @@ Utilisez le modèle de code ci-dessous pour insérer une capture d'écran. Vos i
 
 **Voici quelques exemples de fonctions et de lignes de code mises dans des boîtes grises :**
 
+Lien vers le document CSV :
+https://raw.githubusercontent.com/jsmarier/files-for-course-assignments/refs/heads/main/Questionnaire_détaillé_du_recensement_de_2021_Données_par_quartier.csv 
+
+
 1. Si vous nommez une fonction, mettez là à l'intérieur de guillemets « inclinés » comme ceci : `IMPORTHTML`.
 1. Si vous voulez inclure une ligne de code complète, faites la même chose, mais avec tout le code : `=IMPORTHTML("https://en.wikipedia.org/wiki/China"; "table", 5)`.
 1. Alternativement, vous pouvez mettre le code dans une boîte indépendante en utilisant le modèle de code ci-dessous :
+
+Observations générales :
+
+Le fichier contient environ 26 colonnes et 2603 lignes. Les données semblent généralement propres, bien structurées et sans cellules vides majeures. Chaque colonne correspond à un quartier de la Ville d'Ottawa et chaque ligne contient une variable spécifique provenant du recensement (ex. population, âge médian, revenu, langue, etc).
+
+
+Observations spécifiques : 
+
+Colonne A : Nom du quartier : variable nominal représentant le nom administratif de chaque secteur. Aucune valeur manquante n'est observée.
+
+Colonne B : Population totale : variable discrète quantitative (valeurs entières). On remarque des écarts importants entre les quartiers centraux et périphériques.
+
+Colonne C : Revenu médian : variable quantitatif poursuivre. Certaines vailleurs paraissant élevées ou faibles, ce qui reflète probablement la diversité socioéconomique des quartiers.
+
+
+Question ou hypothèse : 
+
+Les quartiers centraux présentent une proportion plus élevée de personnes non mariées (jeunes professionnels, étudiants, locataires), tandis que les quartiers périphériques affichent une proportion plus élevée de personnes mariées (familles, propriétaires).
 
 ``` r
 =IMPORTHTML("https://en.wikipedia.org/wiki/China"; "table", 5)
