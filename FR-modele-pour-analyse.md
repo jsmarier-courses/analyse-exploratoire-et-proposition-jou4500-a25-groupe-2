@@ -191,8 +191,10 @@ Ce travail nous a permis d’identifier certaines lacunes, notamment dans l’ut
 
 ## 6. Références
 
+Canada, S. (2022, 30 novembre). Distribution (in percentage) of marital status, total population aged 15 and older, Ottawa (City), 2021. https://www12.statcan.gc.ca/census-recensement/2021/as-sa/fogs-spg/alternative.cfm?topic=4&lang=e&dguid=2021A00053506008&objectId=6 
+Cardus. (2025, 10 octobre). The Canadian Marriage Map | CARDUS. https://www.cardus.ca/research/the-canadian-marriage-map/
+Données ouvertes de la Ville d’Ottawa. (s. d.). https://ouverte.ottawa.ca/datasets/ottawa::questionnaire-d%C3%A9taill%C3%A9-du-recensement-de-2021-donn%C3%A9es-par-quartier/about 
+Ottawa Neighbourhood Study | Our aim is to better understand the physical and social pathways through which neighbourhoods in Ottawa affect health. (s. d.). https://www.neighbourhoodstudy.ca/?utm
+
 Veuillez inclure une liste de vos références ici. Assurez-vous de suivre les [normes APA pour les références](https://apastyle.apa.org/style-grammar-guidelines/references). Les retraits négatifs (*hanging paragraphs*) ne sont pas nécessaires. Le [guide sur l'adaptation APA](https://arts.uottawa.ca/lettres/sites/arts.uottawa.ca.lettres/files/cartu-outils-de-redaction-adaptation-apa.pdf) de l'Université d'Ottawa pourrait également vous être utile.
 
-**Voici un exemple :**
-
-Bounegru, L., & Gray, J. (Eds.). (2021). *The Data Journalism Handbook 2: Towards A Critical Data Practice*. Amsterdam University Press. [https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153)
