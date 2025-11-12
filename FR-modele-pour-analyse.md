@@ -105,7 +105,7 @@ Capture d’écrans du nettoyage dans OpenRefine:
 ![alt text](<image (4).png>)
 *Figure 7 : Tableau croisé dynamique des catégories d'état matrimonial pour les qurtiers de Somerest et Barrhaven.*</br>
 
-![alt text](<image (3).png>) 
+![alt text](<IMG_2.jpg>) 
 *Figure 8 : Ce graphique à barres montre la distribution de l'état matrimonial des residents de 15 ans et plus dans les qurtiers Somerest et Barrhaven à Ottawa en 2021* </br>
 
 
