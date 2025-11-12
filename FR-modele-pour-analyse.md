@@ -42,7 +42,18 @@ Ce travail sera structuré en plusieurs étapes. Dans un premier temps, nous exp
 
 Utilisez deux croisillons (`##`) pour créer un intertitre de niveau 2 comme celui-ci.
 
+Pour cette activité, on a choisi d'utiliser le fichier CSV intitulé « Questionnaire détaillé du recensement de 2021 - Données par quartier. », qui présente des statistiques de la Ville d'Ottawa, classées par quartier.
+
+Importation des données dans Google Feuilles de calcul :
+
+On a d'abord ouvert Google Feuilles de calcul et créé une nouvelle feuille. Dans le menu principal, on a sélectionné : 1- Fichier, 2- Importer, 3- on a sélectionné le fichier CSV depuis le bureau de l’appareil. 4 - enfin, on a importé le fichier CSV fourni.
+
+Une fenêtre d'options s'est indiquée : on a choisi Remplacer la feuille actuelle, le séparateur automatique (virgule), et cocher Convertir les nombres et dates. Après avoir cliqué sur Importer les données, le jeu de données est apparu corrigé.
+
+
 Utilisez le modèle de code ci-dessous pour insérer une capture d'écran. Vos images doivent être sauvegardées dans le même dossier que votre fichier `.md`.
+
+
 
 ![](import-screen-capture.png)<br>
 *Figure 1 : La fenêtre d'importation d'un fichier de Google Feuilles de calcul.*
