@@ -53,6 +53,7 @@ Une fenêtre d'options s'est indiquée : on a choisi Remplacer la feuille actuel
 
 Utilisez le modèle de code ci-dessous pour insérer une capture d'écran. Vos images doivent être sauvegardées dans le même dossier que votre fichier `.md`.
 
+![alt text](<Screenshot 2025-11-11 at 5.37.04 AM.png>)
 
 
 ![](import-screen-capture.png)<br>
