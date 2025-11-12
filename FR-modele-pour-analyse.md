@@ -31,9 +31,6 @@ On a d'abord ouvert Google Feuilles de calcul et créé une nouvelle feuille. Da
 
 Une fenêtre d'options s'est indiquée : on a choisi Remplacer la feuille actuelle, le séparateur automatique (virgule), et cocher Convertir les nombres et dates. Après avoir cliqué sur Importer les données, le jeu de données est apparu corrigé.
 
-
-Utilisez le modèle de code ci-dessous pour insérer une capture d'écran. Vos images doivent être sauvegardées dans le même dossier que votre fichier `.md`.
-
 ![alt text](<Screenshot 2025-11-11 at 5.37.04 AM.png>)
 *Figure 1 : Données brutes detaillées sur l'état matrimonial, dans Google Feuilles de calcul.*
 
@@ -72,7 +69,8 @@ Méthode 1: Nettoyage dans Google Sheets
 1) Suppression des doublons
 
 Nous avons utilisé l'outil Données et Supprimer les doublons, qui nous a permis d’éliminer tous les doubles lignes identiques créées lors d’une fusion de fichiers. 
-![alt text](undefined-1.jfif)
+
+![alt text](IMG_1.jpg)
 *Figure 3 : Resultat de la suppression des doublons dans Google Feuilles de calcul.*</br>
 
 2) Recherche et remplacer
@@ -88,7 +86,7 @@ Nous avons corrigé automatiquement certaines erreurs répétitives, comme (1,70
 
 Pour vérifier la cohérence de nos données, nous avons utilisé la fonction `SUM` avec la formule =SUM(B4:B10) afin de calculer la somme des populations de tous les quartiers. Nous avons obtenu un total de 917 855, à comparer avec le total officiel de la Ville d’Ottawa de 834 140. La différence s’explique par les arrondis statistiques et les petites non-réponses dans certains quartiers. Cette vérification nous permet de confirmer que nos données sont globalement fiables et que nous pouvons les utiliser pour analyser l’état matrimonial et les tendances démographiques par quartier.
 
-![alt text](<image.1.jpeg>)
+![alt text](<image.1.jpng.jpeg>)
 *Figure 5 : Vérification des totaux des populations par état matrinonial à Ottawa.* </br>
 
 4) Nettoyage cluster à l’aide de Open Refine
